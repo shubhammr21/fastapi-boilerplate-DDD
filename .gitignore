@@ -12,9 +12,6 @@ venv/
 
 ## Editors
 
-# VS code
-.vscode
-
 # PyCharm
 .idea
 
